@@ -1,0 +1,18 @@
+@media(max-width: 800px){
+    .responsive_table{
+        overflow: auto !important;
+    }
+
+    .mat-table{
+        min-width: 800px;
+    }
+}
+
+mat-card{
+    padding: 20px;
+}
+
+table{
+    width: 100%;
+}
+
